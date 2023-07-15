@@ -3,7 +3,7 @@
 It seems you have stumbled upon my profile, so let me tell you about myself.
 
 I am currently a software engineer and sysadmin by choice. I am currently employed and am not looking for jobs.
-Currently, most of my own repositories aren't really interesting - however, feel free to take a look at my contributions on other repositories.
+Currently, most of my own repositories aren't all interesting, and consist of either small utilities or pointless software - however, feel free to take a look at my contributions on other repositories.
 
 Other than the software development I do in public, I host a few services for others to use and/or enjoy, some of which are listed at [kescher.at](https://www.kescher.at/).
 
